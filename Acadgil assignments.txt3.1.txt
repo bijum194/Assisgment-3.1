@@ -1,0 +1,27 @@
+Assignment
+3.1
+
+1. How to Import SAS XPORT files into R with the foreign package?
+Ans: in R library(Hmisc) is used to import data from excel
+
+2. How to Import SAS Files into R with the Haven package?
+readstat package allow us to read and write sas files into r
+
+3. How to read Weka Attribute-Relation File Format (ARFF) files in R?
+read.arff in foreign package helpread file format of (ARFF) in R
+
+4. How to read a heavy csv/tsv file using readr package?
+ The function read_file will be used to read the  file in readr package.
+
+
+
+
+
+
+
+
+
+
+
+
+
